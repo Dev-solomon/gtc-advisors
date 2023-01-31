@@ -53,6 +53,7 @@
     .select_tab_pane a{
         margin: 5px;
     } 
+    /* below for mobile input */
     .mobile-form-find{
         margin-top: 40px !important;
     }
